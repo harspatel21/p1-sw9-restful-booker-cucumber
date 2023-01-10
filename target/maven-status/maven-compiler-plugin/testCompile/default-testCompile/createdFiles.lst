@@ -1,0 +1,6 @@
+com\restfulbooker\booker\bookininfo\TagsTest.class
+com\restfulbooker\booker\bookininfo\BookingCURDTest.class
+com\restfulbooker\booker\testbase\TestBase.class
+com\restfulbooker\booker\bookininfo\BookingDataDrivenTest.class
+com\restfulbooker\booker\cucumber\CucumberRunner.class
+com\restfulbooker\booker\cucumber\steps\MyStepdefs.class
